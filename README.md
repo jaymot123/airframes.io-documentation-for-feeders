@@ -8,3 +8,4 @@
 jaymot123/jaymot123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Below you may find a list of equipment needed to receive ACARS, VDL2, HFDL, ACARS messages on SATCOM C and L bands, information about homemade antennas, and useful on-topic links, meant for feeding these messages to airframes.io.
