@@ -1,1 +1,1 @@
-Here you may find a list of equipment needed to receive ACARS, VDL2, HFDL, ACARS messages on SATCOM C and L bands, information about homemade antennas, and useful on-topic links, meant for feeding these messages to airframes.io.
+Here you may find a list of equipment needed to receive VHF ACARS, VDL2, HFDL, ACARS messages on SATCOM C and L bands, information about homemade antennas, and useful on-topic links. This is meant for those wishing to feed these types of messages to airframes.io.
