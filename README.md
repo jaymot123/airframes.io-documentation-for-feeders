@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaymot123
+- 👋 Hi, I’m @jaymot123 (JayM)
 - 👀 I’m interested in ADS-B, ACARS, HFDL, shortwave listening, other SDR and radio monitoring activities.
 - 🌱 I’m currently studying for my ham radio license exam.
 - 💞️ I’m looking to collaborate on nothing at the moment, I'm not a coder.
