@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaymot123 (JayM)
 - 👀 I’m interested in ADS-B, ACARS, HFDL, shortwave listening, other SDR and radio monitoring activities.
 - 🌱 I’m currently studying for my ham radio license exam.
-- 💞️ I’m looking to collaborate on nothing at the moment, I'm not a coder.
+- 💞️ I’m looking to collaborate on nothing at the moment, I'm not a coder. I only created this repository to share some documentation that I wrote.
 - 📫 How to reach me: best bet is in Discord on the ADSBExchange server in the #welcome channel. No DMs please.
 
 <!---
